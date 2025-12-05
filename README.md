@@ -1,7 +1,7 @@
 # Frontend Test
 
 Proyek ini adalah **Frontend Test** yang dibangun menggunakan **Next.js 15**, **React 19**, dan **TailwindCSS 4**.  
-Project ini menggunakan beberapa library tambahan untuk mendukung UI, animasi, form, dan data fetching.
+Project ini menggunakan beberapa library tambahan untuk mendukung UI.
 
 ---
 
